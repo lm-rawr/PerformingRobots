@@ -24,22 +24,33 @@ The robot has just left a bar after having too much alcohol. As a result, it can
 
 #### Act 1: The Call to Action
 Superhero Red: (LED displays "Iron Mech" emblem) The Neon World is in trouble, and it's up to us to save it.
+
 Superhero Blue: (LED displays "Aqua Thunder" emblem) We must act swiftly to stop this chaos.
+
 Superhero Green: (LED displays "Emerald Guardian" emblem) The Villains won't give up easily.
+
 Superhero Yellow: (LED displays "Solar Flare" emblem) We can't let them destroy our world.
+
 Superhero Purple: (LED displays "Shadow Enigma" emblem) Our powers combined can make a difference.
+
 Villain Black: (LED displays "Dark Matter" emblem) You think you can stop us?
+
 Villain Gray: (LED displays "Silent Serpent" emblem) We thrive on chaos.
 
 #### Act 2: The Alliance Forms
 Superhero Red: (LED displays "Unity" symbol) We propose a truce. We can save the Neon World together.
+
 Villain Black: (LED displays "Consideration" symbol) An alliance, you say?
+
 Superhero Blue: (LED displays "Hope" symbol) Our powers can restore balance.
+
 Superhero Green: (LED displays "Teamwork" symbol) Working together is the only way.
+
 Villain Gray: (LED displays "Agreement" symbol) We'll put our differences aside for now.
 
 #### Act 3: Saving the Neon World
 Superhero Yellow: (LED displays "Action" symbol) Let's go! There's no time to waste.
+
 Superhero Purple: (LED displays "Courage" symbol) Together, we'll make a difference.
 The robots display their superpowers with LEDs and sound effects.
 Superhero Red: (LED displays "Unity" symbol) We're stronger together!
