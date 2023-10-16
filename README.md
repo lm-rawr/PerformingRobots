@@ -52,7 +52,11 @@ Villain Gray: (LED displays "Agreement" symbol) We'll put our differences aside 
 Superhero Yellow: (LED displays "Action" symbol) Let's go! There's no time to waste.
 
 Superhero Purple: (LED displays "Courage" symbol) Together, we'll make a difference.
+
 The robots display their superpowers with LEDs and sound effects.
+
 Superhero Red: (LED displays "Unity" symbol) We're stronger together!
+
 LED animations depict the climactic battle with dazzling visuals and sound effects.
+
 The play ends with the united robots, displaying LED matrices in celebration, symbolizing the importance of unity to save the world.
