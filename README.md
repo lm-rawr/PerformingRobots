@@ -60,3 +60,11 @@ Superhero Red: (LED displays "Unity" symbol) We're stronger together!
 LED animations depict the climactic battle with dazzling visuals and sound effects.
 
 The play ends with the united robots, displaying LED matrices in celebration, symbolizing the importance of unity to save the world.
+
+## Paper 1 (Ken Goldberg)
+
+Writing-
+https://docs.google.com/document/d/1_c8G0KRJzmV2NCci-cAWf6jH5-6E72Pk-Nd1HeXr4pg/edit?usp=drivesdk 
+
+Presentation-
+https://docs.google.com/presentation/d/1XrlM4tQdcZl6go4MDbY4jtXYqSoYsDb08sdaXRZQnZ8/edit?usp=sharing
