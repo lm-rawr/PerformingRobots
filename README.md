@@ -68,3 +68,8 @@ https://docs.google.com/document/d/1_c8G0KRJzmV2NCci-cAWf6jH5-6E72Pk-Nd1HeXr4pg/
 
 Presentation-
 https://docs.google.com/presentation/d/1XrlM4tQdcZl6go4MDbY4jtXYqSoYsDb08sdaXRZQnZ8/edit?usp=sharing
+
+## Robot Designs
+
+![IMG_7315](https://github.com/lm-rawr/PerformingRobots/assets/78416925/e1654f3b-ebcb-4eb4-8184-8aa8b02c9517)
+![IMG_7313](https://github.com/lm-rawr/PerformingRobots/assets/78416925/aec91ff4-7219-468e-9d79-217ccfcd97e5)
