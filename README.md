@@ -73,3 +73,8 @@ https://docs.google.com/presentation/d/1XrlM4tQdcZl6go4MDbY4jtXYqSoYsDb08sdaXRZQ
 
 ![IMG_7315](https://github.com/lm-rawr/PerformingRobots/assets/78416925/e1654f3b-ebcb-4eb4-8184-8aa8b02c9517)
 ![IMG_7313](https://github.com/lm-rawr/PerformingRobots/assets/78416925/aec91ff4-7219-468e-9d79-217ccfcd97e5)
+
+## Progress Details (in Shanaia's Journal)
+
+Because both of us have been working in different parts of the robot and in different aspects of the class, Shanaia has been in charge of updating our progress in her journal. This is the link to her repo.
+https://github.com/sparuthi/performingrobots
