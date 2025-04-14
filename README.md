@@ -64,7 +64,7 @@ The play ends with the united robots, displaying LED matrices in celebration, sy
 ## Paper 1 (Ken Goldberg)
 
 Writing-
-https://docs.google.com/document/d/1_c8G0KRJzmV2NCci-cAWf6jH5-6E72Pk-Nd1HeXr4pg/edit?usp=drivesdk 
+[https://docs.google.com/document/d/1_c8G0KRJzmV2NCci-cAWf6jH5-6E72Pk-Nd1HeXr4pg/edit?usp=drivesdk ](https://docs.google.com/document/d/1RA3ltCXg7Yb8D7BU0wLgYOwfU9JNsFg3qoTIVsbwshY/edit?tab=t.0)
 
 Presentation-
 https://docs.google.com/presentation/d/1XrlM4tQdcZl6go4MDbY4jtXYqSoYsDb08sdaXRZQnZ8/edit?usp=sharing
